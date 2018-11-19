@@ -1,0 +1,36 @@
+* {
+  font-family: Helvetica;
+}
+
+header{
+  background-image: url('../images/pattern-min.jpg');
+}
+
+h1{
+  font-size:100px;
+  color: khaki;
+  text-align: center;
+  font-weight: bold;
+}
+
+h2{
+  font-size: 32px;
+  color: white;
+}
+
+.green-background{
+  background-color: mediumspringgreen;
+}
+
+.red-background{
+  background-color: lightcoral;
+}
+
+.blue-background{
+  background-color: skyblue;
+}
+
+.price{
+  color: blue;
+  font-weight: bold;
+}
